@@ -1,6 +1,7 @@
 ﻿using LeetCode.Problems.Easy;
 using LeetCode.Problems.Medium;
-
+using System.Collections;
+using System.Collections.Generic;
 namespace LeetCode
 {
     internal class Program
